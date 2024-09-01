@@ -1,0 +1,16 @@
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\bin\Debug\net8.0-windows\MovingBall.exe
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\bin\Debug\net8.0-windows\MovingBall.deps.json
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\bin\Debug\net8.0-windows\MovingBall.runtimeconfig.json
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\bin\Debug\net8.0-windows\MovingBall.dll
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\bin\Debug\net8.0-windows\MovingBall.pdb
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\obj\Debug\net8.0-windows\MovingBall.Form1.resources
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\obj\Debug\net8.0-windows\MovingBall.csproj.GenerateResource.cache
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\obj\Debug\net8.0-windows\MovingBall.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\obj\Debug\net8.0-windows\MovingBall.AssemblyInfoInputs.cache
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\obj\Debug\net8.0-windows\MovingBall.AssemblyInfo.cs
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\obj\Debug\net8.0-windows\MovingBall.csproj.CoreCompileInputs.cache
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\obj\Debug\net8.0-windows\MovingBall.dll
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\obj\Debug\net8.0-windows\refint\MovingBall.dll
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\obj\Debug\net8.0-windows\MovingBall.pdb
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\obj\Debug\net8.0-windows\MovingBall.genruntimeconfig.cache
+E:\Mega DotNet ITI Track\3- WinForms\My Task Solving\D11(5)\MovingBall\obj\Debug\net8.0-windows\ref\MovingBall.dll
